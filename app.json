@@ -6,8 +6,8 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
-  "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+  "repository": "https://github.com/LXR-YOUTUBER-AMAL/File-Sharing-Bot",
+  "logo": "https://telegra.ph/file/e83c8b8300b6b17a2652e.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": ""
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
